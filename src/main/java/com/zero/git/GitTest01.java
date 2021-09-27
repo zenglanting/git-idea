@@ -10,5 +10,6 @@ public class GitTest01 {
         System.out.println("master test01");
         System.out.println("push test01!!!!!!!!!!!!!!!!!!!!");
         System.out.println("pull test01!!!!!!!!!!!!!!!!!!!!");
+        github 的代码更新啦！
     }
 }
